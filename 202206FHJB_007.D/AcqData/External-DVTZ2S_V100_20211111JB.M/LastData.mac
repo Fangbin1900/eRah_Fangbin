@@ -1,0 +1,6 @@
+﻿Name LastDataFile
+  LastDataPath$ = "D:\!Data2022\!IBED_DATA2022\" 
+  LastDataFile$ = "202206FHJB_006.D" 
+  LastDataSize  = 41830383
+  remove LastDataFile
+  return

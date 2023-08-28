@@ -1,0 +1,12 @@
+﻿Additional Information for ofn_sn.m
+File created Wed Dec 11 11:27:20 2019
+
+Method : D:\MassHunter\GCMS\1\methods\checkout\ofn_sn.m
+Renamed: D:\MassHunter\GCMS\1\methods\ofn_sn.m
+Wed Dec 11 11:27:22 2019
+-----------------------------------------
+
+Method : D:\!Methods\IBED-DVTZ_V100_20200615JB.m
+Renamed: D:\!Methods\External-DVTZ2S_V100_20211111JB.m
+Thu Nov 11 09:14:44 2021
+-----------------------------------------
